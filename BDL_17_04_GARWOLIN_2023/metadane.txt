@@ -1,0 +1,7 @@
+Kod rdlp: 17
+Nazwa rdlp: WARSZAWA                      
+Kod nadleśnictwa:  04
+Nazwa nadleśnictwa:  Garwolin                      
+Rok stanu danych: 2023
+Pochodzenie danych: BDL
+Data wytworzenia danych: 2023-06-12

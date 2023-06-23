@@ -1,0 +1,43 @@
+date_from	date_to	site_type_cd	site_type_name	site_type_nr	site_type_grp	site_type_grp_act
+01-01-1970		BB     	Bór bagienny                  	14	5	BB                            
+01-01-1970		BG     	Bór górski                    	17	4	BG                            
+01-01-1970		BGW    	Bór górski wilgotny           	72	4	BG                            
+01-01-1970		BMB    	Bór mieszany bagienny         	24	3	BMB                           
+01-01-1970		BMW    	Bór mieszany wilgotny         	23	3	BMW                           
+01-01-1970		BMWYŻ  	Bór mieszany wyżynny          	25	3	BMWYŻ                         
+01-01-1970		BMŚW   	Bór mieszany świeży           	22	3	BMŚW                          
+01-01-1970		BS     	Bór suchy                     	11	5	BS                            
+01-01-1970		BW     	Bór wilgotny                  	13	4	BW                            
+01-01-1970		BWG    	Bór wysokogórski              	18	4	BWG                           
+01-01-1970		BŚW    	Bór świeży                    	12	4	BŚW                           
+01-01-1970		LG     	Las górski                    	50	1	LG                            
+01-01-1970		LMB    	Las mieszany bagienny         	34	2	LMB                           
+01-01-1970		LMG    	Las mieszany górski           	38	2	LMG                           
+01-01-1970		LMW    	Las mieszany wilgotny         	33	2	LMW                           
+01-01-1970		LMWYŻ  	Las mieszany wyżynny          	35	2	LMWYŻ                         
+01-01-1970		LMŚW   	Las mieszany świeży           	32	2	LMŚW                          
+01-01-1970		LW     	Las wilgotny                  	43	1	LW                            
+01-01-1970		LWYŻ   	Las wyżynny                   	47	1	LWYŻ                          
+01-01-1970		LWYŻŚW 	Las wyżynny świeży            	63	1	LWYŻ                          
+01-01-1970		LŁ     	Las łęgowy                    	46	1	LŁ                            
+01-01-1970		LŁG    	Las łęgowy górski             	95	1	LŁG                           
+01-01-1970		LŁWYŻ  	Las łęgowy wyżynny            	66	1	LŁWYŻ                         
+01-01-1970		LŚW    	Las świeży                    	42	1	LŚW                           
+01-01-1970		OL     	Ols                           	44	2	OL                            
+01-01-1970		OLJ    	Ols jesionowy                 	45	1	OLJ                           
+01-01-1970		OLJG   	Ols jesionowy górski          	96	1	OLG                           
+01-01-1970		OLJWYŻ 	Ols jesionowy wyżynny         	65	1	OLJWYŻ                        
+01-01-1970		BGB    	Bór górski bagienny           	73	4	BG                            
+01-01-1970		BGŚW   	Bór górski świeży             	71	4	BG                            
+01-01-1970		BMGB   	Bór mieszany górski bagienny  	83	3	BMG                           
+01-01-1970		BMGW   	Bór mieszany górski wilgotny  	82	3	BMG                           
+01-01-1970		BMGŚW  	Bór mieszany górski świeży    	81	3	BMG                           
+01-01-1970		BMWYŻW 	Bór mieszany wyżynny wilgotny 	56	3	BMWYŻ                         
+01-01-1970		BMWYŻŚW	Bór mieszany wyżynny świeży   	55	3	BMWYŻ                         
+01-01-1970		LGW    	Las górski wilgotny           	94	1	LG                            
+01-01-1970		LGŚW   	Las górski świeży             	93	1	LG                            
+01-01-1970		LMGW   	Las mieszany górski wilgotny  	92	2	LMG                           
+01-01-1970		LMGŚW  	Las mieszany górski świeży    	91	2	LMG                           
+01-01-1970		LMWYŻW 	Las mieszany wyżynny  wilgotny	62	2	LMWYŻ                         
+01-01-1970		LMWYŻŚW	Las mieszany wyżynny  świeży  	61	2	LMWYŻ                         
+01-01-1970		LWYŻW  	Las wyżynny wilgotny          	64	1	LWYŻ                          

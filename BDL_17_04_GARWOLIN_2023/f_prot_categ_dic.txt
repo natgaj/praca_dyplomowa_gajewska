@@ -1,0 +1,11 @@
+date_from	date_to	prot_category_cd	prot_grp_cd	prot_category_name	prot_category_nr
+01-01-1970		OCH BADAW	BADAW    	stałe pow. badaw. i dośw.     	5
+01-01-1970		OCH CENNE	PRZYR    	cenne fragm. rodz. Przyrody   	4
+01-01-1970		OCH GLEB 	GLEB     	glebochronne                  	1
+01-01-1970		OCH MIAST	WOD      	w miastach i wokół miast      	8
+01-01-1970		OCH NAS  	NAS      	nasienne                      	6
+01-01-1970		OCH OBR  	OBRON    	obronne                       	10
+01-01-1970		OCH OSTOJ	ŚRODOW   	ostoje zwierząt               	7
+01-01-1970		OCH USZK 	USZK     	trw. uszk.na sk. dział. przem.	3
+01-01-1970		OCH UZDR 	ŚRODOW   	uzdrowiskowe                  	9
+01-01-1970		OCH WOD  	WOD      	wodochronne                   	2

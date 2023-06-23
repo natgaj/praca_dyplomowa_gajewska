@@ -1,0 +1,5 @@
+1. User of the Forest Data Bank data sets is bound by the terms and conditions set forth below: 
+.	User shall identify the source and date of compilation and acqusition of Forest Data Bank data sets, 
+. Forest Data Bank data sets shall be redistributed to third parties in an unchanged form, 
+. User shall inform Directorate-General of the State Forests and Bureau for Forest Management and Geodesy of any changes in data sets. Such information should be sent to bdl@bdl.lasy.gov.pl.
+2. The State Forest National Forest Holding and Bureau for Forest Management and Geodesy shall not be held liable for any or all uses of the data.

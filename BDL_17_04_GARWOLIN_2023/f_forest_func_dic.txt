@@ -1,0 +1,6 @@
+forest_func_cd	forest_func_name	forest_func_nr	date_from	date_to
+GOSP  	lasy gospodarcze              	1	01-01-1970	
+OCHR  	lasy ochronne                 	2	01-01-1970	
+REZ   	rezerwat                      	5	01-01-1970	
+REZ CZ	rezerwat częściowy            	4	01-01-1970	
+REZ Ś 	rezerwat ścisły               	3	01-01-1970	
