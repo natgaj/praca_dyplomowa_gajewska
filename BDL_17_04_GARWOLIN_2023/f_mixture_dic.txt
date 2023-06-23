@@ -1,0 +1,10 @@
+date_from	date_to	mixture_cd	mixture_name	mixture_nr
+01-01-1970		+++ 	brak informacji               	9
+01-01-1970		DKĘP	drobnokępowe                  	3
+01-01-1970		GRP 	grupowe                       	2
+01-01-1970		JDN 	jednostkowe                   	1
+01-01-1970		KĘP 	kępowe                        	4
+01-01-1970		PAS 	pasowe                        	7
+01-01-1970		RZĘD	rzędowe                       	6
+01-01-1970		SMUG	smugowe                       	8
+01-01-1970		WKĘP	wielkokępowe                  	5

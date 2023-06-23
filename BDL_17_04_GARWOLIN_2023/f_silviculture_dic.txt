@@ -1,0 +1,6 @@
+silviculture_cd	silviculture_name	silviculture_nr	date_from	date_to
+GP   	przerębowe w lasach gospodarczych                 	5	01-01-1970	
+GPZ  	przerębowo - zrębowe w lasach gospodarczych       	4	01-01-1970	
+GZ   	zrębowe w lasach gospodarczych                    	3	01-01-1970	
+O    	lasów ochronnych                                  	2	01-01-1970	
+S    	specjalne                                         	1	01-01-1970	

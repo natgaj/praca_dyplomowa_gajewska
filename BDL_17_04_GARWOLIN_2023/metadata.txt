@@ -1,0 +1,7 @@
+RDSF Code: 17
+RDSF Name: WARSZAWA                      
+Forest District Code:  04
+Forest District Name:  Garwolin                      
+Year: 2023
+Source of data: Forest Data Bank
+Preparation date: 2023-06-12

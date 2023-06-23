@@ -1,0 +1,5 @@
+date_from	date_to	density_cd	density_name	density_nr
+01-01-1970		LUŹ 	luźne                                             	4
+01-01-1970		PEŁ 	pełne                                             	1
+01-01-1970		PRZ 	przerywane                                        	3
+01-01-1970		UM  	umiarkowane                                       	2
