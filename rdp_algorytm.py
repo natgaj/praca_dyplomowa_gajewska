@@ -22,7 +22,7 @@ for polygon in merged_polygons:
     if polygon.area < 5000:  # Usuwa poligony o powierzchni mniejszej niż x
         continue
 
-    simplified_vertices = rdp(np.array(vertices), epsilon=50)
+    simplified_vertices = rdp(np.array(vertices), epsilon=50) # epsilon to minimalna wartość jaką muszą wynosić odległości w algorytmie
 
     if len(simplified_vertices) >= 4:  # Sprawdza czy liczba wierzchołków jest wystarczająca
         new_polygon = Polygon(simplified_vertices)
