@@ -1,0 +1,725 @@
+Referencyjne wartoœci warstwy:
+Ca³kowite pole powierzchni: 3242143652.9544578
+Ca³kowity obwód: 9955077.76585735
+Ca³kowita liczba wierzcho³ków: 70778
+
+rdp_epsilon: 50, point_distance: 50
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3466287265.8
+Ró¿nica w polu powierzchni: -224143612.85
+Zmiana procentowa w polu powierzchni: 6.91%
+Obwód przed RDP: 6153351.059735057
+Iloœæ wierzcho³ków przed RDP: 128460
+Obwód po RDP: 5300775.644736069
+Iloœæ wierzcho³ków po RDP: 88095
+Zmiana procentowa obwodu: -13.86%
+Zmiana procentowa liczby wierzcho³ków: -31.42%
+
+rdp_epsilon: 50, point_distance: 100
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3463201731.77
+Ró¿nica w polu powierzchni: -221058078.82
+Zmiana procentowa w polu powierzchni: 6.82%
+Obwód przed RDP: 5958916.017053147
+Iloœæ wierzcho³ków przed RDP: 64990
+Obwód po RDP: 5232451.698903647
+Iloœæ wierzcho³ków po RDP: 86115
+Zmiana procentowa obwodu: -12.19%
+Zmiana procentowa liczby wierzcho³ków: 32.51%
+
+rdp_epsilon: 50, point_distance: 150
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3462470755.49
+Ró¿nica w polu powierzchni: -220327102.54
+Zmiana procentowa w polu powierzchni: 6.8%
+Obwód przed RDP: 5776639.65810194
+Iloœæ wierzcho³ków przed RDP: 43811
+Obwód po RDP: 5154231.348992633
+Iloœæ wierzcho³ków po RDP: 83791
+Zmiana procentowa obwodu: -10.77%
+Zmiana procentowa liczby wierzcho³ków: 91.26%
+
+rdp_epsilon: 50, point_distance: 200
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3459068665.44
+Ró¿nica w polu powierzchni: -216925012.49
+Zmiana procentowa w polu powierzchni: 6.69%
+Obwód przed RDP: 5595804.819371583
+Iloœæ wierzcho³ków przed RDP: 33245
+Obwód po RDP: 5027264.140250685
+Iloœæ wierzcho³ków po RDP: 77923
+Zmiana procentowa obwodu: -10.16%
+Zmiana procentowa liczby wierzcho³ków: 134.39%
+
+rdp_epsilon: 50, point_distance: 250
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3454558400.68
+Ró¿nica w polu powierzchni: -212414747.73
+Zmiana procentowa w polu powierzchni: 6.55%
+Obwód przed RDP: 5435608.815610991
+Iloœæ wierzcho³ków przed RDP: 26889
+Obwód po RDP: 4888471.264423104
+Iloœæ wierzcho³ków po RDP: 71851
+Zmiana procentowa obwodu: -10.07%
+Zmiana procentowa liczby wierzcho³ków: 167.21%
+
+rdp_epsilon: 50, point_distance: 300
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3447992275.9
+Ró¿nica w polu powierzchni: -205848622.95
+Zmiana procentowa w polu powierzchni: 6.35%
+Obwód przed RDP: 5256675.170864312
+Iloœæ wierzcho³ków przed RDP: 22497
+Obwód po RDP: 4729124.198559066
+Iloœæ wierzcho³ków po RDP: 65259
+Zmiana procentowa obwodu: -10.04%
+Zmiana procentowa liczby wierzcho³ków: 190.08%
+
+rdp_epsilon: 50, point_distance: 350
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3439319685.94
+Ró¿nica w polu powierzchni: -197176032.99
+Zmiana procentowa w polu powierzchni: 6.08%
+Obwód przed RDP: 5048855.380987945
+Iloœæ wierzcho³ków przed RDP: 19059
+Obwód po RDP: 4537592.999845936
+Iloœæ wierzcho³ków po RDP: 57607
+Zmiana procentowa obwodu: -10.13%
+Zmiana procentowa liczby wierzcho³ków: 202.26%
+
+rdp_epsilon: 50, point_distance: 400
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3433068259.57
+Ró¿nica w polu powierzchni: -190924606.62
+Zmiana procentowa w polu powierzchni: 5.89%
+Obwód przed RDP: 4866236.853767262
+Iloœæ wierzcho³ków przed RDP: 16502
+Obwód po RDP: 4373009.17759584
+Iloœæ wierzcho³ków po RDP: 52073
+Zmiana procentowa obwodu: -10.14%
+Zmiana procentowa liczby wierzcho³ków: 215.56%
+
+rdp_epsilon: 50, point_distance: 450
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3424109139.75
+Ró¿nica w polu powierzchni: -181965486.8
+Zmiana procentowa w polu powierzchni: 5.61%
+Obwód przed RDP: 4676264.832838291
+Iloœæ wierzcho³ków przed RDP: 14369
+Obwód po RDP: 4200076.26552165
+Iloœæ wierzcho³ków po RDP: 46131
+Zmiana procentowa obwodu: -10.18%
+Zmiana procentowa liczby wierzcho³ków: 221.05%
+
+rdp_epsilon: 50, point_distance: 500
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3416078121.48
+Ró¿nica w polu powierzchni: -173934468.53
+Zmiana procentowa w polu powierzchni: 5.36%
+Obwód przed RDP: 4518522.441657144
+Iloœæ wierzcho³ków przed RDP: 12754
+Obwód po RDP: 4053425.98129573
+Iloœæ wierzcho³ków po RDP: 41902
+Zmiana procentowa obwodu: -10.29%
+Zmiana procentowa liczby wierzcho³ków: 228.54%
+
+rdp_epsilon: 50, point_distance: 550
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3407457311.52
+Ró¿nica w polu powierzchni: -165313658.57
+Zmiana procentowa w polu powierzchni: 5.1%
+Obwód przed RDP: 4373927.94454369
+Iloœæ wierzcho³ków przed RDP: 11434
+Obwód po RDP: 3925497.599530241
+Iloœæ wierzcho³ków po RDP: 38373
+Zmiana procentowa obwodu: -10.25%
+Zmiana procentowa liczby wierzcho³ków: 235.6%
+
+rdp_epsilon: 50, point_distance: 600
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3400877381.21
+Ró¿nica w polu powierzchni: -158733728.26
+Zmiana procentowa w polu powierzchni: 4.9%
+Obwód przed RDP: 4229551.685102471
+Iloœæ wierzcho³ków przed RDP: 10274
+Obwód po RDP: 3794023.043166585
+Iloœæ wierzcho³ków po RDP: 35036
+Zmiana procentowa obwodu: -10.3%
+Zmiana procentowa liczby wierzcho³ków: 241.02%
+
+rdp_epsilon: 50, point_distance: 650
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3393196138.79
+Ró¿nica w polu powierzchni: -151052485.84
+Zmiana procentowa w polu powierzchni: 4.66%
+Obwód przed RDP: 4105202.384362715
+Iloœæ wierzcho³ków przed RDP: 9402
+Obwód po RDP: 3682857.5853890222
+Iloœæ wierzcho³ków po RDP: 32362
+Zmiana procentowa obwodu: -10.29%
+Zmiana procentowa liczby wierzcho³ków: 244.2%
+
+rdp_epsilon: 50, point_distance: 700
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3386555056.3
+Ró¿nica w polu powierzchni: -144411403.35
+Zmiana procentowa w polu powierzchni: 4.45%
+Obwód przed RDP: 3991545.7030323944
+Iloœæ wierzcho³ków przed RDP: 8561
+Obwód po RDP: 3572257.0543619916
+Iloœæ wierzcho³ków po RDP: 29608
+Zmiana procentowa obwodu: -10.5%
+Zmiana procentowa liczby wierzcho³ków: 245.85%
+
+rdp_epsilon: 50, point_distance: 750
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3380516969.7
+Ró¿nica w polu powierzchni: -138373316.75
+Zmiana procentowa w polu powierzchni: 4.27%
+Obwód przed RDP: 3866429.3226044187
+Iloœæ wierzcho³ków przed RDP: 7866
+Obwód po RDP: 3470125.2368268883
+Iloœæ wierzcho³ków po RDP: 27496
+Zmiana procentowa obwodu: -10.25%
+Zmiana procentowa liczby wierzcho³ków: 249.56%
+
+rdp_epsilon: 50, point_distance: 800
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3371884219.0
+Ró¿nica w polu powierzchni: -129740566.05
+Zmiana procentowa w polu powierzchni: 4.0%
+Obwód przed RDP: 3767098.378834447
+Iloœæ wierzcho³ków przed RDP: 7264
+Obwód po RDP: 3376998.46073712
+Iloœæ wierzcho³ków po RDP: 25474
+Zmiana procentowa obwodu: -10.36%
+Zmiana procentowa liczby wierzcho³ków: 250.69%
+
+rdp_epsilon: 50, point_distance: 850
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3365829680.1
+Ró¿nica w polu powierzchni: -123686027.15
+Zmiana procentowa w polu powierzchni: 3.81%
+Obwód przed RDP: 3683728.8429356096
+Iloœæ wierzcho³ków przed RDP: 6785
+Obwód po RDP: 3304263.5505340896
+Iloœæ wierzcho³ków po RDP: 24003
+Zmiana procentowa obwodu: -10.3%
+Zmiana procentowa liczby wierzcho³ków: 253.77%
+
+rdp_epsilon: 50, point_distance: 900
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3360201581.63
+Ró¿nica w polu powierzchni: -118057928.68
+Zmiana procentowa w polu powierzchni: 3.64%
+Obwód przed RDP: 3605881.1046011536
+Iloœæ wierzcho³ków przed RDP: 6353
+Obwód po RDP: 3236035.3580155633
+Iloœæ wierzcho³ków po RDP: 22706
+Zmiana procentowa obwodu: -10.26%
+Zmiana procentowa liczby wierzcho³ków: 257.41%
+
+rdp_epsilon: 50, point_distance: 950
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3357369980.9
+Ró¿nica w polu powierzchni: -115226327.95
+Zmiana procentowa w polu powierzchni: 3.55%
+Obwód przed RDP: 3535478.2289227885
+Iloœæ wierzcho³ków przed RDP: 5946
+Obwód po RDP: 3167461.1615456194
+Iloœæ wierzcho³ków po RDP: 21207
+Zmiana procentowa obwodu: -10.41%
+Zmiana procentowa liczby wierzcho³ków: 256.66%
+
+rdp_epsilon: 50, point_distance: 1000
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3351452376.58
+Ró¿nica w polu powierzchni: -109308723.63
+Zmiana procentowa w polu powierzchni: 3.37%
+Obwód przed RDP: 3477597.554105097
+Iloœæ wierzcho³ków przed RDP: 5595
+Obwód po RDP: 3112254.5833147517
+Iloœæ wierzcho³ków po RDP: 20275
+Zmiana procentowa obwodu: -10.51%
+Zmiana procentowa liczby wierzcho³ków: 262.38%
+
+rdp_epsilon: 100, point_distance: 50
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3452339318.24
+Ró¿nica w polu powierzchni: -210195665.29
+Zmiana procentowa w polu powierzchni: 6.48%
+Obwód przed RDP: 6153351.059735057
+Iloœæ wierzcho³ków przed RDP: 128460
+Obwód po RDP: 4908084.4299007
+Iloœæ wierzcho³ków po RDP: 58819
+Zmiana procentowa obwodu: -20.24%
+Zmiana procentowa liczby wierzcho³ków: -54.21%
+
+rdp_epsilon: 100, point_distance: 100
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3446974460.96
+Ró¿nica w polu powierzchni: -204830808.01
+Zmiana procentowa w polu powierzchni: 6.32%
+Obwód przed RDP: 5958916.017053147
+Iloœæ wierzcho³ków przed RDP: 64990
+Obwód po RDP: 4790905.601217147
+Iloœæ wierzcho³ków po RDP: 55943
+Zmiana procentowa obwodu: -19.6%
+Zmiana procentowa liczby wierzcho³ków: -13.92%
+
+rdp_epsilon: 100, point_distance: 150
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3444337461.24
+Ró¿nica w polu powierzchni: -202193808.29
+Zmiana procentowa w polu powierzchni: 6.24%
+Obwód przed RDP: 5776639.65810194
+Iloœæ wierzcho³ków przed RDP: 43811
+Obwód po RDP: 4745725.900627108
+Iloœæ wierzcho³ków po RDP: 54987
+Zmiana procentowa obwodu: -17.85%
+Zmiana procentowa liczby wierzcho³ków: 25.51%
+
+rdp_epsilon: 100, point_distance: 200
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3440476690.72
+Ró¿nica w polu powierzchni: -198333037.77
+Zmiana procentowa w polu powierzchni: 6.12%
+Obwód przed RDP: 5595804.819371583
+Iloœæ wierzcho³ków przed RDP: 33245
+Obwód po RDP: 4692856.407424212
+Iloœæ wierzcho³ków po RDP: 53991
+Zmiana procentowa obwodu: -16.14%
+Zmiana procentowa liczby wierzcho³ków: 62.4%
+
+rdp_epsilon: 100, point_distance: 250
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3439070230.44
+Ró¿nica w polu powierzchni: -196926577.49
+Zmiana procentowa w polu powierzchni: 6.07%
+Obwód przed RDP: 5435608.815610991
+Iloœæ wierzcho³ków przed RDP: 26889
+Obwód po RDP: 4625689.838837433
+Iloœæ wierzcho³ków po RDP: 52587
+Zmiana procentowa obwodu: -14.9%
+Zmiana procentowa liczby wierzcho³ków: 95.57%
+
+rdp_epsilon: 100, point_distance: 300
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3432798084.6
+Ró¿nica w polu powierzchni: -190654431.65
+Zmiana procentowa w polu powierzchni: 5.88%
+Obwód przed RDP: 5256675.170864312
+Iloœæ wierzcho³ków przed RDP: 22497
+Obwód po RDP: 4514663.424583004
+Iloœæ wierzcho³ków po RDP: 49591
+Zmiana procentowa obwodu: -14.12%
+Zmiana procentowa liczby wierzcho³ków: 120.43%
+
+rdp_epsilon: 100, point_distance: 350
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3427492097.93
+Ró¿nica w polu powierzchni: -185348444.98
+Zmiana procentowa w polu powierzchni: 5.72%
+Obwód przed RDP: 5048855.380987945
+Iloœæ wierzcho³ków przed RDP: 19059
+Obwód po RDP: 4374165.51050845
+Iloœæ wierzcho³ków po RDP: 45807
+Zmiana procentowa obwodu: -13.36%
+Zmiana procentowa liczby wierzcho³ków: 140.34%
+
+rdp_epsilon: 100, point_distance: 400
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3421904598.17
+Ró¿nica w polu powierzchni: -179760945.22
+Zmiana procentowa w polu powierzchni: 5.54%
+Obwód przed RDP: 4866236.853767262
+Iloœæ wierzcho³ków przed RDP: 16502
+Obwód po RDP: 4231831.01625218
+Iloœæ wierzcho³ków po RDP: 42025
+Zmiana procentowa obwodu: -13.04%
+Zmiana procentowa liczby wierzcho³ków: 154.67%
+
+rdp_epsilon: 100, point_distance: 450
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3412778949.08
+Ró¿nica w polu powierzchni: -170635296.13
+Zmiana procentowa w polu powierzchni: 5.26%
+Obwód przed RDP: 4676264.832838291
+Iloœæ wierzcho³ków przed RDP: 14369
+Obwód po RDP: 4078548.0011271476
+Iloœæ wierzcho³ków po RDP: 38135
+Zmiana procentowa obwodu: -12.78%
+Zmiana procentowa liczby wierzcho³ków: 165.4%
+
+rdp_epsilon: 100, point_distance: 500
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3406386562.35
+Ró¿nica w polu powierzchni: -164242909.4
+Zmiana procentowa w polu powierzchni: 5.07%
+Obwód przed RDP: 4518522.441657144
+Iloœæ wierzcho³ków przed RDP: 12754
+Obwód po RDP: 3954886.655710154
+Iloœæ wierzcho³ków po RDP: 35154
+Zmiana procentowa obwodu: -12.47%
+Zmiana procentowa liczby wierzcho³ków: 175.63%
+
+rdp_epsilon: 100, point_distance: 550
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3399750596.33
+Ró¿nica w polu powierzchni: -157606943.38
+Zmiana procentowa w polu powierzchni: 4.86%
+Obwód przed RDP: 4373927.94454369
+Iloœæ wierzcho³ków przed RDP: 11434
+Obwód po RDP: 3842993.0716584222
+Iloœæ wierzcho³ków po RDP: 32665
+Zmiana procentowa obwodu: -12.14%
+Zmiana procentowa liczby wierzcho³ków: 185.68%
+
+rdp_epsilon: 100, point_distance: 600
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3392317920.13
+Ró¿nica w polu powierzchni: -150174267.18
+Zmiana procentowa w polu powierzchni: 4.63%
+Obwód przed RDP: 4229551.685102471
+Iloœæ wierzcho³ków przed RDP: 10274
+Obwód po RDP: 3718380.4889588864
+Iloœæ wierzcho³ków po RDP: 30112
+Zmiana procentowa obwodu: -12.09%
+Zmiana procentowa liczby wierzcho³ków: 193.09%
+
+rdp_epsilon: 100, point_distance: 650
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3385605335.9
+Ró¿nica w polu powierzchni: -143461682.95
+Zmiana procentowa w polu powierzchni: 4.42%
+Obwód przed RDP: 4105202.384362715
+Iloœæ wierzcho³ków przed RDP: 9402
+Obwód po RDP: 3610028.5427788985
+Iloœæ wierzcho³ków po RDP: 27962
+Zmiana procentowa obwodu: -12.06%
+Zmiana procentowa liczby wierzcho³ków: 197.4%
+
+rdp_epsilon: 100, point_distance: 700
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3379197719.22
+Ró¿nica w polu powierzchni: -137054066.27
+Zmiana procentowa w polu powierzchni: 4.23%
+Obwód przed RDP: 3991545.7030323944
+Iloœæ wierzcho³ków przed RDP: 8561
+Obwód po RDP: 3514141.355781108
+Iloœæ wierzcho³ków po RDP: 26028
+Zmiana procentowa obwodu: -11.96%
+Zmiana procentowa liczby wierzcho³ków: 204.03%
+
+rdp_epsilon: 100, point_distance: 750
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3373473024.16
+Ró¿nica w polu powierzchni: -131329371.21
+Zmiana procentowa w polu powierzchni: 4.05%
+Obwód przed RDP: 3866429.3226044187
+Iloœæ wierzcho³ków przed RDP: 7866
+Obwód po RDP: 3410710.3068157965
+Iloœæ wierzcho³ków po RDP: 24156
+Zmiana procentowa obwodu: -11.79%
+Zmiana procentowa liczby wierzcho³ków: 207.09%
+
+rdp_epsilon: 100, point_distance: 800
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3366512404.64
+Ró¿nica w polu powierzchni: -124368751.69
+Zmiana procentowa w polu powierzchni: 3.84%
+Obwód przed RDP: 3767098.378834447
+Iloœæ wierzcho³ków przed RDP: 7264
+Obwód po RDP: 3324344.2079277746
+Iloœæ wierzcho³ków po RDP: 22578
+Zmiana procentowa obwodu: -11.75%
+Zmiana procentowa liczby wierzcho³ków: 210.82%
+
+rdp_epsilon: 100, point_distance: 850
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3359767010.02
+Ró¿nica w polu powierzchni: -117623357.07
+Zmiana procentowa w polu powierzchni: 3.63%
+Obwód przed RDP: 3683728.8429356096
+Iloœæ wierzcho³ków przed RDP: 6785
+Obwód po RDP: 3257977.646772666
+Iloœæ wierzcho³ków po RDP: 21415
+Zmiana procentowa obwodu: -11.56%
+Zmiana procentowa liczby wierzcho³ków: 215.62%
+
+rdp_epsilon: 100, point_distance: 900
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3353694313.44
+Ró¿nica w polu powierzchni: -111550660.49
+Zmiana procentowa w polu powierzchni: 3.44%
+Obwód przed RDP: 3605881.1046011536
+Iloœæ wierzcho³ków przed RDP: 6353
+Obwód po RDP: 3192478.1981250593
+Iloœæ wierzcho³ków po RDP: 20366
+Zmiana procentowa obwodu: -11.46%
+Zmiana procentowa liczby wierzcho³ków: 220.57%
+
+rdp_epsilon: 100, point_distance: 950
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3349665031.66
+Ró¿nica w polu powierzchni: -107521378.71
+Zmiana procentowa w polu powierzchni: 3.32%
+Obwód przed RDP: 3535478.2289227885
+Iloœæ wierzcho³ków przed RDP: 5946
+Obwód po RDP: 3121794.721794909
+Iloœæ wierzcho³ków po RDP: 18923
+Zmiana procentowa obwodu: -11.7%
+Zmiana procentowa liczby wierzcho³ków: 218.25%
+
+rdp_epsilon: 100, point_distance: 1000
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3344247881.3
+Ró¿nica w polu powierzchni: -102104228.35
+Zmiana procentowa w polu powierzchni: 3.15%
+Obwód przed RDP: 3477597.554105097
+Iloœæ wierzcho³ków przed RDP: 5595
+Obwód po RDP: 3075364.851461043
+Iloœæ wierzcho³ków po RDP: 18287
+Zmiana procentowa obwodu: -11.57%
+Zmiana procentowa liczby wierzcho³ków: 226.85%
+
+rdp_epsilon: 150, point_distance: 50
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3436850249.85
+Ró¿nica w polu powierzchni: -194706596.9
+Zmiana procentowa w polu powierzchni: 6.01%
+Obwód przed RDP: 6153351.059735057
+Iloœæ wierzcho³ków przed RDP: 128460
+Obwód po RDP: 4588074.597030772
+Iloœæ wierzcho³ków po RDP: 45147
+Zmiana procentowa obwodu: -25.44%
+Zmiana procentowa liczby wierzcho³ków: -64.86%
+
+rdp_epsilon: 150, point_distance: 100
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3431221103.39
+Ró¿nica w polu powierzchni: -189077450.44
+Zmiana procentowa w polu powierzchni: 5.83%
+Obwód przed RDP: 5958916.017053147
+Iloœæ wierzcho³ków przed RDP: 64990
+Obwód po RDP: 4504982.551129781
+Iloœæ wierzcho³ków po RDP: 43615
+Zmiana procentowa obwodu: -24.4%
+Zmiana procentowa liczby wierzcho³ków: -32.89%
+
+rdp_epsilon: 150, point_distance: 150
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3426353650.94
+Ró¿nica w polu powierzchni: -184209997.99
+Zmiana procentowa w polu powierzchni: 5.68%
+Obwód przed RDP: 5776639.65810194
+Iloœæ wierzcho³ków przed RDP: 43811
+Obwód po RDP: 4412711.057524212
+Iloœæ wierzcho³ków po RDP: 42039
+Zmiana procentowa obwodu: -23.61%
+Zmiana procentowa liczby wierzcho³ków: -4.04%
+
+rdp_epsilon: 150, point_distance: 200
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3418325619.34
+Ró¿nica w polu powierzchni: -176181966.39
+Zmiana procentowa w polu powierzchni: 5.43%
+Obwód przed RDP: 5595804.819371583
+Iloœæ wierzcho³ków przed RDP: 33245
+Obwód po RDP: 4355398.693133334
+Iloœæ wierzcho³ków po RDP: 41279
+Zmiana procentowa obwodu: -22.17%
+Zmiana procentowa liczby wierzcho³ków: 24.17%
+
+rdp_epsilon: 150, point_distance: 250
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3419451121.71
+Ró¿nica w polu powierzchni: -177307468.76
+Zmiana procentowa w polu powierzchni: 5.47%
+Obwód przed RDP: 5435608.815610991
+Iloœæ wierzcho³ków przed RDP: 26889
+Obwód po RDP: 4320653.7455591075
+Iloœæ wierzcho³ków po RDP: 40691
+Zmiana procentowa obwodu: -20.51%
+Zmiana procentowa liczby wierzcho³ków: 51.33%
+
+rdp_epsilon: 150, point_distance: 300
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3414851225.09
+Ró¿nica w polu powierzchni: -172707572.14
+Zmiana procentowa w polu powierzchni: 5.33%
+Obwód przed RDP: 5256675.170864312
+Iloœæ wierzcho³ków przed RDP: 22497
+Obwód po RDP: 4253822.662224377
+Iloœæ wierzcho³ków po RDP: 39223
+Zmiana procentowa obwodu: -19.08%
+Zmiana procentowa liczby wierzcho³ków: 74.35%
+
+rdp_epsilon: 150, point_distance: 350
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3408057639.18
+Ró¿nica w polu powierzchni: -165913986.23
+Zmiana procentowa w polu powierzchni: 5.12%
+Obwód przed RDP: 5048855.380987945
+Iloœæ wierzcho³ków przed RDP: 19059
+Obwód po RDP: 4150163.2754262
+Iloœæ wierzcho³ków po RDP: 36855
+Zmiana procentowa obwodu: -17.8%
+Zmiana procentowa liczby wierzcho³ków: 93.37%
+
+rdp_epsilon: 150, point_distance: 400
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3406088890.63
+Ró¿nica w polu powierzchni: -163945237.68
+Zmiana procentowa w polu powierzchni: 5.06%
+Obwód przed RDP: 4866236.853767262
+Iloœæ wierzcho³ków przed RDP: 16502
+Obwód po RDP: 4053938.9657235574
+Iloœæ wierzcho³ków po RDP: 34685
+Zmiana procentowa obwodu: -16.69%
+Zmiana procentowa liczby wierzcho³ków: 110.19%
+
+rdp_epsilon: 150, point_distance: 450
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3403136209.09
+Ró¿nica w polu powierzchni: -160992556.14
+Zmiana procentowa w polu powierzchni: 4.97%
+Obwód przed RDP: 4676264.832838291
+Iloœæ wierzcho³ków przed RDP: 14369
+Obwód po RDP: 3935533.2304653875
+Iloœæ wierzcho³ków po RDP: 32179
+Zmiana procentowa obwodu: -15.84%
+Zmiana procentowa liczby wierzcho³ków: 123.95%
+
+rdp_epsilon: 150, point_distance: 500
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3396447584.8
+Ró¿nica w polu powierzchni: -154303931.85
+Zmiana procentowa w polu powierzchni: 4.76%
+Obwód przed RDP: 4518522.441657144
+Iloœæ wierzcho³ków przed RDP: 12754
+Obwód po RDP: 3828071.20321256
+Iloœæ wierzcho³ków po RDP: 29946
+Zmiana procentowa obwodu: -15.28%
+Zmiana procentowa liczby wierzcho³ków: 134.8%
+
+rdp_epsilon: 150, point_distance: 550
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3386401951.9
+Ró¿nica w polu powierzchni: -144258298.95
+Zmiana procentowa w polu powierzchni: 4.45%
+Obwód przed RDP: 4373927.94454369
+Iloœæ wierzcho³ków przed RDP: 11434
+Obwód po RDP: 3721661.1153550767
+Iloœæ wierzcho³ków po RDP: 27765
+Zmiana procentowa obwodu: -14.91%
+Zmiana procentowa liczby wierzcho³ków: 142.83%
+
+rdp_epsilon: 150, point_distance: 600
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3379908495.65
+Ró¿nica w polu powierzchni: -137764842.7
+Zmiana procentowa w polu powierzchni: 4.25%
+Obwód przed RDP: 4229551.685102471
+Iloœæ wierzcho³ków przed RDP: 10274
+Obwód po RDP: 3622954.1205382855
+Iloœæ wierzcho³ków po RDP: 26196
+Zmiana procentowa obwodu: -14.34%
+Zmiana procentowa liczby wierzcho³ków: 154.97%
+
+rdp_epsilon: 150, point_distance: 650
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3374586945.72
+Ró¿nica w polu powierzchni: -132443292.77
+Zmiana procentowa w polu powierzchni: 4.09%
+Obwód przed RDP: 4105202.384362715
+Iloœæ wierzcho³ków przed RDP: 9402
+Obwód po RDP: 3519632.0330785126
+Iloœæ wierzcho³ków po RDP: 24222
+Zmiana procentowa obwodu: -14.26%
+Zmiana procentowa liczby wierzcho³ków: 157.63%
+
+rdp_epsilon: 150, point_distance: 700
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3369834715.12
+Ró¿nica w polu powierzchni: -127691062.17
+Zmiana procentowa w polu powierzchni: 3.94%
+Obwód przed RDP: 3991545.7030323944
+Iloœæ wierzcho³ków przed RDP: 8561
+Obwód po RDP: 3431332.5117135076
+Iloœæ wierzcho³ków po RDP: 22772
+Zmiana procentowa obwodu: -14.03%
+Zmiana procentowa liczby wierzcho³ków: 166.0%
+
+rdp_epsilon: 150, point_distance: 750
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3364435822.22
+Ró¿nica w polu powierzchni: -122292169.27
+Zmiana procentowa w polu powierzchni: 3.77%
+Obwód przed RDP: 3866429.3226044187
+Iloœæ wierzcho³ków przed RDP: 7866
+Obwód po RDP: 3347703.9010352455
+Iloœæ wierzcho³ków po RDP: 21584
+Zmiana procentowa obwodu: -13.42%
+Zmiana procentowa liczby wierzcho³ków: 174.4%
+
+rdp_epsilon: 150, point_distance: 800
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3355807084.73
+Ró¿nica w polu powierzchni: -113663431.78
+Zmiana procentowa w polu powierzchni: 3.51%
+Obwód przed RDP: 3767098.378834447
+Iloœæ wierzcho³ków przed RDP: 7264
+Obwód po RDP: 3265701.1992311035
+Iloœæ wierzcho³ków po RDP: 20114
+Zmiana procentowa obwodu: -13.31%
+Zmiana procentowa liczby wierzcho³ków: 176.9%
+
+rdp_epsilon: 150, point_distance: 850
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3352056355.94
+Ró¿nica w polu powierzchni: -109912702.99
+Zmiana procentowa w polu powierzchni: 3.39%
+Obwód przed RDP: 3683728.8429356096
+Iloœæ wierzcho³ków przed RDP: 6785
+Obwód po RDP: 3194134.2305541527
+Iloœæ wierzcho³ków po RDP: 19107
+Zmiana procentowa obwodu: -13.29%
+Zmiana procentowa liczby wierzcho³ków: 181.61%
+
+rdp_epsilon: 150, point_distance: 900
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3346394901.34
+Ró¿nica w polu powierzchni: -104251248.39
+Zmiana procentowa w polu powierzchni: 3.22%
+Obwód przed RDP: 3605881.1046011536
+Iloœæ wierzcho³ków przed RDP: 6353
+Obwód po RDP: 3141141.5555499624
+Iloœæ wierzcho³ków po RDP: 18282
+Zmiana procentowa obwodu: -12.89%
+Zmiana procentowa liczby wierzcho³ków: 187.77%
+
+rdp_epsilon: 150, point_distance: 950
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3345040454.64
+Ró¿nica w polu powierzchni: -102896801.69
+Zmiana procentowa w polu powierzchni: 3.17%
+Obwód przed RDP: 3535478.2289227885
+Iloœæ wierzcho³ków przed RDP: 5946
+Obwód po RDP: 3077424.6599344234
+Iloœæ wierzcho³ków po RDP: 17083
+Zmiana procentowa obwodu: -12.96%
+Zmiana procentowa liczby wierzcho³ków: 187.3%
+
+rdp_epsilon: 150, point_distance: 1000
+£¹czne pole powierzchni w warstwie wejœciowej: 3242143652.95
+£¹czne pole powierzchni w warstwie po zastosowaniu algorytmu RDP: 3341177086.01
+Ró¿nica w polu powierzchni: -99033433.06
+Zmiana procentowa w polu powierzchni: 3.05%
+Obwód przed RDP: 3477597.554105097
+Iloœæ wierzcho³ków przed RDP: 5595
+Obwód po RDP: 3029761.915606473
+Iloœæ wierzcho³ków po RDP: 16495
+Zmiana procentowa obwodu: -12.88%
+Zmiana procentowa liczby wierzcho³ków: 194.82%
+

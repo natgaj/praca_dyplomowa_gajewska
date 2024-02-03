@@ -1,2 +1,0 @@
-inspectorate_name	arodes_int_num	a_year
-Garwolin                      	1704	2023
